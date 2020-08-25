@@ -17,4 +17,4 @@ COPY --from=builder build/application/ ./
 
 EXPOSE 8081
 
-CMD java $JAVA_OPTS org.springframework.boot.loader.JarLauncher
+CMD pwd && ls -la && java $JAVA_OPTS org.springframework.boot.loader.JarLauncher

@@ -11,7 +11,7 @@
 	<groupId>com.power4j.demo</groupId>
 	<artifactId>layered-jar-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>layer-jar-demo</name>
+	<name>layered-jar-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
